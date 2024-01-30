@@ -5,3 +5,5 @@ How to run the script:
 3) install libraries by typing "pip install -r requirements.txt"
 4) lastly type "python image_scraper.py" and hit enter then enter your keyword to scrape free ai images.
 
+
+(Give it a ⭐ if you like it)
